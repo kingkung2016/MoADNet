@@ -7,7 +7,7 @@ This is the official implementation of "MoADNet: Mobile Asymmetric Dual-Stream N
 ## Content
 * [Run MoADNet code](#Run)
 * [Saliency maps](#Saliency)
-* [Evaluation_tools](#Evaluation tools)
+* [Evaluation_tools](#Evaluation)
 * [Citation](#Citation)
 ****
 
@@ -30,7 +30,7 @@ This is the official implementation of "MoADNet: Mobile Asymmetric Dual-Stream N
 - The evaluation tools, training and test datasets can be obtained in [RGBD-SOD-tools](https://github.com/kingkung2016/RGBD-SOD-tools).
 ****
 
-### Citation
+## Citation
 ```
 @ARTICLE{jin2022moadnet,
   author={Jin, Xiao and Yi, Kang and Xu, Jing},
