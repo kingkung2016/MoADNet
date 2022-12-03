@@ -7,7 +7,7 @@ This is the official implementation of "MoADNet: Mobile Asymmetric Dual-Stream N
 ## Content
 * [Run MoADNet code](#Run)
 * [Saliency maps](#Saliency)
-* [Evaluation_tools](#Evaluation)
+* [Evaluation tools](#Evaluation)
 * [Citation](#Citation)
 ****
 
